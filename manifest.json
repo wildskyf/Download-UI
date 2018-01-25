@@ -1,0 +1,31 @@
+{
+  "applications": {
+    "gecko": {
+      "id": "download-ui@wildsky",
+      "strict_min_version": "51.0"
+    }
+  },
+
+  "manifest_version": 2,
+  "name": "Download UI",
+  "version": "0.1.0",
+
+  "description": "Provide user a better download UI",
+  "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/donwload-ui/",
+
+  "icons": {
+    "48": "icon.svg"
+  },
+
+  "permissions": ["downloads", "notifications"],
+
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "",
+    "default_icon": "icons.svg"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+
+}
