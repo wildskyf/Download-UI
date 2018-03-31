@@ -14,7 +14,7 @@
   "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/donwload-ui/",
 
   "icons": {
-    "48": "icon.svg"
+    "48": "icon.png"
   },
 
   "permissions": ["downloads", "notifications"],
