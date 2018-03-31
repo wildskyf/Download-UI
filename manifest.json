@@ -8,7 +8,7 @@
 
   "manifest_version": 2,
   "name": "Download UI",
-  "version": "0.2.0",
+  "version": "0.2.1",
 
   "description": "Provide user a better download UI",
   "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/donwload-ui/",
