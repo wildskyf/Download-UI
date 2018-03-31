@@ -22,7 +22,7 @@
   "browser_action": {
     "browser_style": true,
     "default_title": "",
-    "default_icon": "icons.svg"
+    "default_icon": "icon.png"
   },
   "background": {
     "scripts": ["background.js"]
